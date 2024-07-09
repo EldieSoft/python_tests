@@ -1,3 +1,7 @@
+#Basic Auto password generator
+#Just add to directory, and type "python3 random_password.py" and get a random string of uppercase, lowercase, numbers and
+#special characters, 8-20 characters long.
+
 import random
 
 length = random.randint(8,20)
