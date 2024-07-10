@@ -1,3 +1,4 @@
+#Rock, paper, scissors, app.
 import random
 
 def compInput():
